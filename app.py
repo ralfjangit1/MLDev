@@ -1,6 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-import pandas as pd
 
 st.title("👋 Hello Streamlit!")
 st.subheader("This is a simple interactive app.")
