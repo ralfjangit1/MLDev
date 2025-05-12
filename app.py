@@ -11,3 +11,4 @@ name = st.text_input("What's your name?")
 # Display output
 if name:
     st.success(f"Hello, {name}! Welcome to Streamlit. 🎉")
+    st.write("Would you like to continue using streamlit?")
